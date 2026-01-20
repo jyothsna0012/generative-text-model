@@ -27,9 +27,12 @@ In this notebook:
 
 ## 📂 Project Structure
 
+
+
 Generative-Text-Model/
 │
 ├── generative_text.ipynb # Google Colab notebook
+
 └── README.md # Project documentation
 
 
